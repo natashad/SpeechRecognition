@@ -1,0 +1,1 @@
+0 76032 The platform accelerometers must be slightly modified for this procedure.
